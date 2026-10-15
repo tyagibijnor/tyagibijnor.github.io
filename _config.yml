@@ -61,7 +61,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am interested in opportunities in Software Engineering Management, Product Development, Development Leadership, and Technical Delivery where I can contribute my technical experience and team leadership skills while continuing to grow professionally.
   
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+# I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # content:
 #   - title: Projects # Title for the section
