@@ -225,11 +225,11 @@ about_content: | # this will include new lines to allow paragraphs
 # references_title: References on request (Override references text)
 
 # Build settings
-#remote_theme: sproogen/resume-theme
+remote_theme: sproogen/resume-theme
 
 # sass:
 #   sass_dir: _sass
 #   style: compressed
 
-# plugins:
-#  - jekyll-seo-tag
+plugins:
+  - jekyll-remote-theme
