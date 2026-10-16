@@ -37,6 +37,10 @@ linkedin_username: navneet-tyagi-9597155a
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
+additional_links:
+  - title: Download Resume
+    icon: fas fa-download
+    url: /cv/Navneet_resume.pdf
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -48,18 +52,173 @@ linkedin_username: navneet-tyagi-9597155a
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Navneet , and I am a Software Engineering and Product Development professional with 15+ years of experience in application development, technical problem-solving, production support, and software 
-  delivery.
+  I am a Product Development and Software Engineering professional with 15+ years of experience in application development, application enhancement, production support, and technical problem-solving. I currently work as Manager – Product Development at Teleperformance, leading a team of five Senior Software Engineers.
 
-  My technical expertise includes Perl, PHP, Python, Linux, SQL, Git, and Jira. Throughout my career, I have worked across the software development lifecycle, including requirements analysis, module development, debugging, application enhancement, testing, deployment, and production support.
+  My hands-on technical background includes Perl, PHP, Python, SQL, Linux, Git, and Jira. I work across the software development lifecycle, from requirements analysis and implementation through testing, stakeholder demonstrations, release coordination, and production support.
 
-  A key part of my team's development workflow is taking new Perl modules from the development environment through Jira-tracked testing phases, demonstrating successfully completed work to the client or requester, and proceeding with production deployment after successful validation and approval.
+  I value maintainable software, disciplined release processes, cross-functional collaboration, and practical problem-solving. I am also continuing to develop my skills in Python and Generative AI.
 
-  I believe in practical problem-solving, continuous learning, code quality, team collaboration, and dependable software delivery. I enjoy learning new technologies and working with teams to turn business requirements into maintainable software solutions.
+content:
+  - title: Professional Experience
+    layout: list
+    content:
+      - layout: left
+        title: Teleperformance (TP)
+        link: https://www.tp.com/en-us/
+        sub_title: Manager – Product Development
+        caption: May 2020 – Present
+        description: |
+          - Lead and coordinate a team of five Senior Software Engineers, aligning development tasks and follow-ups with project priorities.
+          - Coordinate development and enhancement of Perl-based modules and applications from implementation through testing and release readiness.
+          - Track work and test phases in Jira, arrange client/requester demonstrations, and coordinate production deployment after successful validation and approval.
+          - Collaborate with project management, QA, architecture, and other stakeholders to clarify requirements, troubleshoot issues, and support delivery.
+          - Support backend development, debugging, application maintenance, production issue resolution, incident management, and change control.
+      - layout: left
+        title: Classic Informatics Pvt. Ltd.
+        sub_title: Senior Software Engineer
+        caption: January 2020 – April 2020
+        description: |
+          - Developed and maintained PHP web applications using MVC patterns and open-source CMS platforms.
+          - Worked on database structures, SQL query improvements, object-oriented modules, testing, and technical documentation.
+          - Collaborated with design, QA, and mobile application teams and participated in daily Scrum meetings.
+      - layout: left
+        title: Teleperformance / CRM Services India Pvt. Ltd.
+        sub_title: Software Engineer
+        caption: October 2014 – December 2019
+        description: |
+          - Designed, developed, and supported PHP applications based on business and client requirements.
+          - Investigated production defects, supported application upgrades, and participated in product testing and user acceptance testing.
+          - Worked with Magento, open-source templates, SQL Server Reporting Services, Linux services, and CRON jobs.
+          - Collaborated with operations, MIS, HR, payroll, DBA, and mobile application teams; also contributed to UiPath automation activities.
+      - layout: left
+        title: Eifasoft Technology
+        sub_title: Programmer
+        caption: July 2011 – September 2014
+        description: |
+          - Developed and maintained PHP applications and open-source CMS solutions, including Magento and Joomla.
+          - Created and enhanced modules and scripts, investigated defects, and supported application performance improvements.
+          - Contributed to database structuring, Python application modules, testing, and client support.
 
-  I am interested in opportunities in Software Engineering Management, Product Development, Development Leadership, and Technical Delivery where I can contribute my technical experience and team leadership skills while continuing to grow professionally.
-  
-# I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  - title: Technical Skills
+    layout: text
+    content: |
+      - **Languages:** Perl, PHP, Python
+      - **Development:** MVC, object-oriented programming, web applications, backend modules, open-source CMS/frameworks
+      - **Databases:** SQL, MySQL, Microsoft SQL Server; query development and optimisation
+      - **Tools:** Jira, Git, Bitbucket, SourceTree, Visual Studio Code, Sublime Text
+      - **Systems and operations:** Linux (Ubuntu, CentOS), Windows, CRON jobs, ServiceNow workflows
+      - **Automation:** UiPath / Robotic Process Automation fundamentals
+
+  - title: Certification
+    layout: list
+    content:
+      - layout: left
+        title: UiPath RPA Developer Exam
+        sub_title: UiPath
+        caption: March 25, 2019
+        link: /certificate/rpa/1.jpg
+        description: Completed the UiPath RPA Developer exam, covering UiPath best practices and the development of a functional software robot. The certificate states validity for one year from the issue date.
+
+  - title: Course Certificates & Professional Learning
+    layout: list
+    content:
+      - layout: left
+        title: PHP Developer
+        sub_title: Edureka | Grade A
+        caption: August 15, 2019
+        link: /certificate/php/2.jpg
+      - layout: left
+        title: JavaScript and jQuery Developer
+        sub_title: Edureka | Grade A
+        caption: July 13, 2019
+        link: /certificate/2.jpg
+      - layout: left
+        title: Robotic Process Automation Developer in UiPath
+        sub_title: Edureka | Grade A
+        caption: August 16, 2019
+        link: /certificate/rpa/3.jpg
+      - layout: left
+        title: All in One Python Development Suite
+        sub_title: Simplilearn
+        caption: April 9, 2019
+        link: /certificate/php/3.jpg
+      - layout: left
+        title: Learn Django and Python Development by Building Projects
+        sub_title: Eduonix
+        caption: April 17, 2019
+        link: /certificate/python/1.jpg
+      - layout: left
+        title: "Complete Python Bootcamp: Go from Zero to Hero in Python 3"
+        sub_title: Udemy | 24 hours
+        caption: November 26, 2019
+        link: /certificate/python/2.jpg
+      - layout: left
+        title: UiPath Level 1 Robotic Process Automation
+        sub_title: Udemy | 6.5 hours
+        caption: February 28, 2019
+        link: /certificate/rpa/4.jpg
+      - layout: left
+        title: Orchestrator 2018.2 Training
+        sub_title: UiPath
+        caption: April 4, 2019
+        link: /certificate/rpa/2.jpg
+      - layout: left
+        title: CodeIgniter Framework with Complete LMS Project
+        sub_title: Udemy | 11 hours
+        caption: March 10, 2019
+        link: /certificate/php/1.jpg
+      - layout: left
+        title: Level 1 Intelligence Analyst
+        sub_title: Udemy | 2.5 hours
+        caption: March 31, 2019
+        link: /certificate/2.jpg
+      - layout: left
+        title: Introduction to Laravel 4
+        sub_title: Udemy | 2.5 hours
+        caption: June 2, 2019
+        link: /certificate/5.jpg
+      - layout: left
+        title: "MongoDB and Python: Quick Start"
+        sub_title: Udemy | 2 hours
+        caption: November 30, 2019
+        link: /certificate/3.jpg
+      - layout: left
+        title: AWS Certified Cloud Practitioner 2020 Course
+        sub_title: Udemy | 13 hours | Course completion
+        caption: November 28, 2019
+        link: /certificate/4.jpg
+
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: Indira Gandhi National Open University (IGNOU)
+        sub_title: Master of Computer Applications (MCA)
+        caption: 2010 | 64%
+      - layout: left
+        title: Indira Gandhi National Open University (IGNOU)
+        sub_title: Post Graduate Diploma in Computer Applications (PGDCA)
+        caption: 2009 | 67%
+      - layout: left
+        title: Indira Gandhi National Open University (IGNOU)
+        sub_title: Certificate in Computing (CIC)
+        caption: 2006 | 69%
+
+  - title: Selected GitHub Projects
+    layout: list
+    content:
+      - layout: top-middle
+        title: PHP CodeIgniter Project
+        link: https://github.com/tyagibijnor/PHP_CodeIgniterProject
+        description: A management-system project for learning and demonstrating CodeIgniter.
+      - layout: top-middle
+        title: Python Learning Assignments
+        link: https://github.com/tyagibijnor/AssignmentAngryBird
+        description: Python practice project; see the GitHub profile for additional Python learning repositories.
+      - layout: top-middle
+        title: Student Portal Assignment
+        link: https://github.com/tyagibijnor/AssignmentStudentPortal
+        description: Python student-portal practice project.
 
 # content:
 #   - title: Projects # Title for the section
