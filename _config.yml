@@ -73,8 +73,7 @@ content:
         #link: https://www.tp.com/en-us/
         sub_title: Manager – Product Development
         caption: May 2020 – Present
-        description: |
-          - Lead and coordinate a team of five Senior Software Engineers, aligning development tasks and follow-ups with project priorities.
+        description: |          
           - Coordinate development and enhancement of Perl-based modules and applications from implementation through testing and release readiness.
           - Track work and test phases in Jira, arrange client/requester demonstrations, and coordinate production deployment after successful validation and approval.
           - Collaborate with project management, QA, architecture, and other stakeholders to clarify requirements, troubleshoot issues, and support delivery.
